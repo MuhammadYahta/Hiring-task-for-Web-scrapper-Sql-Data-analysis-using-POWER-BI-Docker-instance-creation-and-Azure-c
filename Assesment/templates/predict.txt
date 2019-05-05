@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <title> Search product</title>
+  <style type="text/css">
+  	body, html {
+  height: 100%;
+  }
+  	body {
+ background-image: url("photo-1443527216320-7e744084f5a7-1.jpg");
+
+    background-size: cover;
+}
+ footer {
+     
+    }
+    footer {
+  	 background-color: #f2f2f2;
+     padding: 25px;
+     word-wrap: normal;
+     position: absolute;
+     bottom: 0;
+     width: 100%;
+}
+
+  </style>
+  </head>
+
+  <body>
+  <div class="container">
+  	<nav class="navbar navbar-inverse">
+	<h2 class="">Pulsifi scrapped data</h2>
+	<color: #ff>
+  <div class="container-fluid">
+    <div class="navbar-header">
+ 
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+ 
+    </div>
+  </div>
+</nav>
+  	
+  </div>
+
+  <div class="container-fluid text-center" style="margin-top: 10%;">
+    <body>
+  	<h1><div style = "text-align:center"><font color = "blue"> </font></div></h1>
+ 	 <hr>
+
+	 <div class = "card text-center" style = "width:21.5em;margin:0 auto;">
+	   <div class = "card-body">
+	      <p class = "card text"><h1><font color = "blue">${{prediction}}</font></h1></p>
+	    </div>
+	 </div>
+
+  </body>
+ <div class = "form-inline">
+     
+ </div>
+</div>
+
+</body>
+<section>
+	<div class="row">
+			<footer class="container-fluid text-center">
+  <p>Copyright</p>  
+  
+</footer>
+	</div>
+
+</section>
+
+
+
+
+</html>
+
+
+
+
