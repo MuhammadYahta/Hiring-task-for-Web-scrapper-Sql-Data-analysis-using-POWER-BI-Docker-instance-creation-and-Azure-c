@@ -1,10 +1,15 @@
 # assesment
 
-The following libraries has been used in the script portion
+The following libraries has been used in the script portion are
+
 Flask==1.0.2
+
 pyodbc==4.0.25
+
 json2html==1.2.1
+
 json2table==1.1.5
+
 jsonschema==2.6.0
 
 
