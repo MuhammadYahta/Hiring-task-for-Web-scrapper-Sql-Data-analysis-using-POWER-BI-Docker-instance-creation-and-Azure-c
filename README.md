@@ -1,5 +1,13 @@
 # assesment
 
+The following libraries has been used in the script portion
+Flask==1.0.2
+pyodbc==4.0.25
+json2html==1.2.1
+json2table==1.1.5
+jsonschema==2.6.0
+
+
 The flow of scenario is given in the following image and all the necessary files can be access at https://github.com/MuhammadYahta/assesment/ .
  
 I choose https://shopee.com.my/ ecommerce website and used a google browser extension based scraper to scrape data fastly instead of using my own scraper.  I first scraped data into MS excel sheet and then export it to azure Cloud sql databased.
